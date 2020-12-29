@@ -30,7 +30,7 @@ export default {
         return {
              isCor: 3,
              isIndex: 0,
-            tittleList: ['梦春档','熙春档','酣春档'],
+            tittleList: ['孟春档','熙春档','酣春档'],
             navList: ['首页','福利管理现状','产品手册','产品介绍'],
             imgList: [],
             imgList1: [
